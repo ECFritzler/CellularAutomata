@@ -1,4 +1,5 @@
 # CellularAutomata
+Algorithm: 
 1) Read in the necessary values
 2) Convert the rule number to binary and the initial sequence to 0 & 1
 3) Group the input string into its neighbours
